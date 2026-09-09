@@ -32,12 +32,6 @@ Chaoyue Li · [Yongxue Xu](https://jerrysnow.me) · Jie Feng · Jiayu Ding
   <img src="assets/task.png" width="100%" alt="LMM-Track4D task and method showcase">
 </p>
 
-<a id="architecture"></a>
-
-<p><img src="assets/readme/heading-method.svg" width="100%" alt="Inside the model"></p>
-
-<p align="center"><img src="assets/method.png" width="100%" alt="LMM-Track4D architecture: RTGE, persistent TRK state propagation, and OSK-RA trajectory decoding"></p>
-
 **LMM-Track4D** combines **RTGE** for ray-time geometry encoding, a persistent **[TRK]** token for cross-turn state propagation, and **OSK-RA** for structured, query-conditioned 3D trajectory decoding. Together, these components maintain dynamic object states across time, viewpoints, and dialogue turns.
 
 <a id="demo"></a>
