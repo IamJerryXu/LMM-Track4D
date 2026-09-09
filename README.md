@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<p><img src="assets/readme/hero.svg" width="100%" alt="LMM-Track4D — Multiple views. One continuous track."></p>
+<p><img src="assets/readme/hero.svg" width="100%" alt="LMM-Track4D — multi-view trajectories through space and time"></p>
 
-<h3>Eliciting 4D Dynamic Reasoning in LMMs<br>via Trajectory-Grounded Dialogue</h3>
-
-Chaoyue Li · [Yongxue Xu](https://jerrysnow.me) · Jie Feng · Jiayu Ding
+<p><img src="assets/readme/subtitle.svg" width="90%" alt="Eliciting 4D Dynamic Reasoning in LMMs via Trajectory-Grounded Dialogue"></p>
 
 <p>
 <a href="https://arxiv.org/abs/2605.19390"><img src="assets/readme/nav-paper.svg" height="43" alt="Paper on arXiv"></a>
@@ -56,44 +54,7 @@ Chaoyue Li · [Yongxue Xu](https://jerrysnow.me) · Jie Feng · Jiayu Ding
 
 Track4D-Bench merges **APIDIS**, **KITTI Tracking**, and **WildTrack** into a unified multi-domain benchmark for track-conditioned 4D dialogue.
 
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>split</th>
-      <th>APIDIS</th>
-      <th>KITTI</th>
-      <th>WildTrack</th>
-      <th>total</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>long</strong></td>
-      <td align="center">15</td>
-      <td align="center">67</td>
-      <td align="center">16</td>
-      <td align="center">98</td>
-    </tr>
-    <tr>
-      <td><strong>short</strong></td>
-      <td align="center">62</td>
-      <td align="center">316</td>
-      <td align="center">50</td>
-      <td align="center">428</td>
-    </tr>
-    <tr>
-      <td><strong>total</strong></td>
-      <td align="center"><strong>77</strong></td>
-      <td align="center"><strong>383</strong></td>
-      <td align="center"><strong>66</strong></td>
-      <td align="center"><strong>526</strong></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+<p align="center"><img src="assets/readme/benchmark-table.svg" width="100%" alt="Clip counts by split (APIDIS / KITTI / WildTrack / Total): Long 15 / 67 / 16 / 98; Short 62 / 316 / 50 / 428; Total 77 / 383 / 66 / 526."></p>
 
 <a id="citation"></a>
 
