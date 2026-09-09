@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<p><img src="assets/readme/hero.svg" width="100%" alt="LMM-Track4D — multi-view trajectories through space and time"></p>
+<p><img src="assets/readme/hero.svg" width="100%" alt="InkMind.AI · LMM-Track4D — multi-view trajectories through space and time"></p>
 
 <p><img src="assets/readme/subtitle.svg" width="90%" alt="Eliciting 4D Dynamic Reasoning in LMMs via Trajectory-Grounded Dialogue"></p>
 
